@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Han et al., "Comprehensive machine learning analysis of Hydra behavior reveals a stable basal behavioral repertoire". eLife, 2018. http://dx.doi.org/10.7554/eLife.32605
+
+
 # hydra_behavior
 This project provides a tool for classifying Hydra behaviors with computer vision methods. For details about the method, see Han et al. [1].
 
